@@ -1,3 +1,4 @@
+![icon](https://github.com/Avstro/Synaps/assets/134327951/a977b276-1f9e-4e1d-a0fe-afa02329fa6f)
 **Synaps**
 
 Synaps is a command-line utility designed to enhance your productivity by providing a range of useful commands and functions. It allows you to perform various tasks, such as executing system commands, opening files and folders, automating keyboard shortcuts, and more.
